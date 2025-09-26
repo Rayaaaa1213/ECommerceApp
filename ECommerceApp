@@ -1,0 +1,14 @@
+ ECommerceApp
+Учебный проект на C# для демонстрации структуры репозитория[cite: 1].
+
+ Структура
+- [cite_start]**ECommerceApp.Core** – бизнес-логика (модели). [cite: 4]
+- [cite_start]**ECommerceApp.Data** – репозиторий для работы с данными. [cite: 5]
+- [cite_start]**ECommerceApp.Tests** – модульные тесты (xUnit). [cite: 6]
+
+ Запуск
+1. Склонировать репозиторий.
+2. Открыть решение `ECommerceApp.sln` в Visual Studio.
+3. Выполнить тесты:
+   ```bash
+   dotnet test
