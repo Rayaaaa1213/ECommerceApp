@@ -13,3 +13,4 @@
 3. Выполнить тесты:
    ```bash
    dotnet test
+<img width="975" height="514" alt="image" src="https://github.com/user-attachments/assets/3ef1f29d-5c71-4eef-9cd1-dbdb0173e768" />
